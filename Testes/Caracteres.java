@@ -17,5 +17,5 @@ class Caracteres {
         System.out.println(palavra);
     }
 
-
 }
+trevas escreva aqui 
